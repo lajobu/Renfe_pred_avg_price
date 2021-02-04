@@ -46,9 +46,13 @@ However, taking into consideration the `R square score on the training sample`, 
 
 ## Links to notebooks:
 
+### 1) Before modellin:
+
 ## [:white_check_mark: Data cleaning](https://github.com/lajobu/Renfe_pred_avg_price/blob/master/Before_modeling/1.Data_cleaning.ipynb)
 ## [:white_check_mark: Data exploration](https://github.com/lajobu/Renfe_pred_avg_price/blob/master/Before_modeling/2.Data_exploration.ipynb)
 ## [:white_check_mark: Data transformation](https://github.com/lajobu/Renfe_pred_avg_price/blob/master/Before_modeling/3.Data_transformation.ipynb)
+
+### 2) Modelling:
 
 ## [:white_check_mark: Decision trees](https://github.com/lajobu/Renfe_pred_avg_price/blob/master/Modeling/Dec_tree/Dec_trees.ipynb)
 ## [:white_check_mark: Bagging](https://github.com/lajobu/Renfe_pred_avg_price/blob/master/Modeling/Bagging/Bagging.ipynb)
