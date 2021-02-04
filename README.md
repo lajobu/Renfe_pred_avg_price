@@ -20,7 +20,7 @@ It would be applied different `regression` modeld and their performance are goin
 
 ## Some figures:
 
-- Map with the railway city connections:
+- Map of the railway city connections:
 
 ![alt text](https://github.com/lajobu/Renfe_pred_avg_price/blob/master/Before_modeling/Figures/Screenshot%202021-01-25%20at%2012.57.09.png)
 
