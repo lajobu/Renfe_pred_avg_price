@@ -40,7 +40,7 @@ It would be applied different `regression` modeld and their performance are goin
 
 ## Conclusion:
 
-As per the above `results table`, it seems the `Boosting model is the best one`, it has the `greatest R square score on the test sample`, equal to `87.73`
+As per the above `results table`, it seems the `Boosting model is the best one`, it has the `greatest R square score on the test sample`, equal to `85.92`
 
 However, taking into consideration the `R square score on the training sample`, the `Xgboosting model seems to have the greatest score`. This result is according to the conclussion made before, which suggests that in `this model there is overfitting problem`, or at leats, this model overfitted the data more than other models
 
