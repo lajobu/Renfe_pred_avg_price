@@ -1,4 +1,4 @@
-# Computer vision - Glasses or no glasses
+# Prediction of the average price of the Spanish rail tickets data¶
 
 [![License: MIT](https://img.shields.io/badge/License-MIT-yellow.svg)](https://opensource.org/licenses/MIT) 
 
